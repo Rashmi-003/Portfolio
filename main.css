@@ -66,9 +66,9 @@ nav ul li a{
   text-transform: uppercase;
 }
 a.active,a:hover{
-  background: black;
+  background: white;
   transition: .5s;
-  color: white;
+  color: black;
   text-decoration: none;
 }
 .checkbtn{
